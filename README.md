@@ -14,5 +14,5 @@ I participated in a Jave learning course for 22 weeks in 2020. It contained:
 
 ![GitHub language count](https://img.shields.io/github/languages/count/nadyakant/Java_Exercises_2020) ![GitHub top language](https://img.shields.io/github/languages/top/nadyakant/Java_Exercises_2020) ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/nadyakant/Java_Exercises_2020) ![GitHub forks](https://img.shields.io/github/forks/nadyakant/Java_Exercises_2020) ![GitHub Repo stars](https://img.shields.io/github/stars/nadyakant/Java_Exercises_2020) 
 
-
+![](https://tokei.rs/b1/github/Ameobea/cryptoviz)
 
