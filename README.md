@@ -1,6 +1,6 @@
 # Java_Exercises_2020
 
-I participated in a Jave learning course for 22 weeks in 2020. It contained: \
+I participated in a Jave learning course for 22 weeks in 2020. It contained: 
 
 > Two Units \
 > Two Unit Exams \
